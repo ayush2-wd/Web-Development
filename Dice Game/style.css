@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(71, 107, 225);
+}
+body{
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+    color: rgb(252, 252, 252);
+    font-family: 'Permanent Marker', cursive;
+}
+.dice{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+h2{
+    font-family: 'Permanent Marker', cursive;
+    color: aquamarine;
+}
